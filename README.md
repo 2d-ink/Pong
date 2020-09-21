@@ -1,2 +1,2 @@
 # Pong
-Simple Pong Game in Python. 
+Simple Pong Game in Python 3. 
